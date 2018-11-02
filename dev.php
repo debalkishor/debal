@@ -1,4 +1,4 @@
-<?php
+<?php // deb majumder
 register_nav_menu( 'primary', __( 'Primary Menu', 'abiemond' ) );
 register_nav_menu( 'myaccount', __( 'My account', 'abiemond' ) );
 register_nav_menu( 'quick_link', __( 'Quicklink', 'abiemond' ) );
